@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="entity">
+		<class>com.br.generate.db.entity.Colorlayout</class>
+		<class>com.br.generate.db.entity.Colormenu</class>
+		<class>com.br.generate.db.entity.Compacto</class>
+		<class>com.br.generate.db.entity.Empresafilial</class>
+		<class>com.br.generate.db.entity.Menulayout</class>
+		<class>com.br.generate.db.entity.Orientacao</class>
+		<class>com.br.generate.db.entity.Perfil</class>
+		<class>com.br.generate.db.entity.Perfilacesso</class>
+		<class>com.br.generate.db.entity.Personalizacaocliente</class>
+		<class>com.br.generate.db.entity.Profile</class>
+		<class>com.br.generate.db.entity.Profileorietacao</class>
+		<class>com.br.generate.db.entity.Servidorimagem</class>
+		<class>com.br.generate.db.entity.Tema</class>
+		<class>com.br.generate.db.entity.Usuario</class>
+	</persistence-unit>
+</persistence>
